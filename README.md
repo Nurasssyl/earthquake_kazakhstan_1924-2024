@@ -1,0 +1,1 @@
+# earthquake_kazakhstan_1924-2024
