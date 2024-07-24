@@ -1,1 +1,3 @@
-# earthquake_kazakhstan_1924-2024
+# Earthquake kazakhstan 1924-2024
+
+![](Count_of_earthquakes.png)
